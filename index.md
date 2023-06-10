@@ -4,16 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at Purdue University. I am interested in Cryptography and Security; with special emphasis on Leakage Resilient Cryptography and Information-theoretic Cryptography. I am extremely fortunate to be advised by Professor Hemanta Maji. I received my B.S. in Computer Science, Mathematics and Statistics
 
-## Research Interests
+<!-- ## Research Interests -->
 
-- **Cryptography:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+<!-- - **Cryptography:** image recognition, image generation, video captioning -->
+<!-- - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
+- **[April 2023]** Presentation .
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.

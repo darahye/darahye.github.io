@@ -6,23 +6,31 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR</abbr>
-  </div>
+  </div> -->
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.cs.purdue.edu/homes/hmaji/papers/MNPSWYY22.pdf">Leakage-resilient Linear Secret-sharing against arbitrary
 Bounded-size Leakage Family</a></div>
-    <div class="author"><strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun</div>
-    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.</em></div>
-    <div class="links">
+    <div class="author">
+    <a href="https://www.cs.purdue.edu/homes/hmaji/">Hemanta Maji</a>,
+    <a href="https://web.ics.purdue.edu/~nguye245/">Hai Nguyen</a>,
+    <a href="https://scholar.google.com/citations?user=XcyQbAYAAAAJ&hl=en">Anat Paskin-Cherniavsky</a>,
+    <a href="https://scholar.google.co.il/citations?user=Bkv3xq0AAAAJ&hl=en">Tom Suad</a>,
+    <a href="https://sites.google.com/view/mingyuan-wang">Mingyuan Wang</a>,
+    <strong>Xiuyu Ye</strong>,
+    <a href="https://www.cs.purdue.edu/people/graduate-students/yu646.html">Albert Yu</a>
+    </div>
+    <div class="periodical"><em> Theory of Cryptography Conference, 2020.</em></div>
+    <!-- <div class="links">
       <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
-    </div>
+      <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+    <!-- </div>  -->
   </div>
 </div>
 </li>
