@@ -1,5 +1,9 @@
 ## Presentations
 
+## Teaching
+
+## Education
+
 <!-- <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
