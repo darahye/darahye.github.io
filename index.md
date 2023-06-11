@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Purdue University. I am interested in Cryptography and Security; with special emphasis on Leakage Resilient Cryptography and Information-theoretic Cryptography. I am extremely fortunate to be advised by Professor Hemanta Maji. I received my B.S. in Computer Science, Mathematics and Statistics
+I am a Ph.D. student at Purdue University. I am interested in Cryptography and Security; with special emphasis on Leakage Resilient Cryptography and Information-theoretic Cryptography. I am extremely fortunate to be advised by Professor <a href="https://www.cs.purdue.edu/homes/hmaji/">Hemanta Maji</a>. I received my B.S. in Computer Science, Mathematics and Statistics from Purdue University.
 
 <!-- ## Research Interests -->
 
