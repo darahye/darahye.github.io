@@ -1,6 +1,5 @@
 ## Presentations
 <div class="publications">
-<ol class="bibliography">
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -12,9 +11,7 @@
   </div>
 </div>
 </li>
-</ol>
 </div>
-
 
 ## Teaching
 <ul style="margin:0 0 5px;">
@@ -37,9 +34,15 @@
 <h4 style="margin:0 10px 0;">Purdue University</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><div class="periodical"><em>B.S. Computer Science</em></div></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
+  <li><div class="periodical"><em>PhD. student in Computer Science</em></div></li>
+  <li><div class="periodical"><em>2020-present</em></div></li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Purdue University</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><div class="periodical"><em>B.S. Computer Science, B.S. Mathematics, B.S. Statistics</em></div></li>
+  <li><div class="periodical"><em>2015-2020</em></div></li>
 </ul>
 
 
