@@ -19,10 +19,10 @@
 ## Teaching
 <ul style="margin:0 0 5px;">
   <li><autocolor>Graduate TA for CS 35500 Introduction to Cryptography</autocolor>
-  (<a href="https://www.cs.purdue.edu/homes/hmaji/teaching/Fall%202022/CS-35500-Fall-2022.html"> Fall 2022 </a>, Spring 2023)
+  (<a href="https://www.cs.purdue.edu/homes/hmaji/teaching/Fall%202022/CS-35500-Fall-2022.html"> Fall 2022 </a>, Spring 2023, Spring 2024)
   </li>
   <li><autocolor>Graduate TA for CS 55500 Introduction to Cryptography</autocolor>
-  (<a href="https://www.cs.purdue.edu/homes/hmaji/teaching/Fall%202021/CS-55500-Fall-2021.html"> Fall 2021 </a>)
+  (<a href="https://www.cs.purdue.edu/homes/hmaji/teaching/Fall%202021/CS-55500-Fall-2021.html"> Fall 2021</a>, Fall 2023)
   </li>
   <li><autocolor>Graduate TA for CS 50300 Operating System</autocolor>
   (Spring 2022)
