@@ -1,4 +1,4 @@
-body {
+/* body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
   }
@@ -26,4 +26,30 @@ body {
   .topnav a.active {
     background-color: #04AA6D;
     color: white;
-  }
+  } */
+
+.navbar ul{
+    list-style-type: none;
+    background-color:transparent;
+    color:#043361!important;
+    padding: 0px;
+    margin: 0px;
+    overflow: : hidden;
+}
+
+.navbar a{
+    color: #4286f4;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.navbar a:hover{
+    background-color: transparent;
+    color:#0a5daf;
+}
+
+.navbar li{
+    float: : left;
+}
