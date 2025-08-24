@@ -125,7 +125,7 @@ Bounded-size Leakage Family</a></div>
     <a href="https://scholar.google.co.il/citations?user=Bkv3xq0AAAAJ&hl=en">Tom Suad</a>,
     <a href="https://sites.google.com/view/mingyuan-wang">Mingyuan Wang</a>,
     <strong>Xiuyu Ye</strong>,
-    <a href="https://www.cs.purdue.edu/people/graduate-students/yu646.html">Albert Yu</a>
+    <a href="https://sites.google.com/view/albert-yu">Albert Yu</a>
     </div>
     <div class="periodical"><em> ITC 2022.</em></div>
     <div class="links">
