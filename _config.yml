@@ -46,4 +46,3 @@ exclude:
   - README_de.md
   - LICENSE
   - minimal-light.gemspec
-  - publications.md
