@@ -51,5 +51,31 @@
 }
 
 .navbar li{
-    float: : left;
+    float: left;
 }
+
+/* .topnav ul{
+    list-style-type: none;
+    background-color:transparent;
+    color:#043361!important;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.topnav a{
+    color: #4286f4;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.topnav a:hover{
+    background-color: transparent;
+    color:#0a5daf;
+}
+
+.topnav li{
+    float: left;
+} */
