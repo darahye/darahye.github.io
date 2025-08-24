@@ -45,7 +45,7 @@
     <strong>Xiuyu Ye</strong>,
     <!-- <a href="https://www.cs.purdue.edu/people/graduate-students/yu646.html">Albert Yu</a> -->
     </div>
-    <div class="periodical"><em> ITC 2025</em></div>
+    <div class="periodical"><em> ITC 2025.</em></div>
     <div class="links">
       <a href="assets/files/HMNY25.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
