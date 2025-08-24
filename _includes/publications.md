@@ -35,7 +35,8 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/HMNY25.pdf"> Leakage-Resilience of Shamir’s Secret Sharing: Identifying Secure Evaluation Places</a></div>
+    <div class="title"> &#8226; <a href="assets/files/HMNY25.pdf"> 
+    Leakage-Resilience of Shamir’s Secret Sharing: Identifying Secure Evaluation Places</a></div>
     <div class="author">
     <a href="https://jihunhwang.github.io/">Ji Hun Hwang</a>,
     <a href="https://www.cs.purdue.edu/homes/hmaji/">Hemanta Maji</a>,
@@ -61,7 +62,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/MNPY23b.pdf"> Constructing Leakage-resilient Shamir’s Secret Sharing: Over Composite Order Fields</a></div>
+    <div class="title"> &#8226; <a href="assets/files/MNPY23b.pdf"> Constructing Leakage-resilient Shamir’s Secret Sharing: Over Composite Order Fields</a></div>
     <div class="author">
     <a href="https://www.cs.purdue.edu/homes/hmaji/">Hemanta Maji</a>,
     <a href="https://web.ics.purdue.edu/~nguye245/">Hai Nguyen</a>,
@@ -92,7 +93,7 @@
   </div> -->
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/MNPSWYY22.pdf">Leakage-resilient Linear Secret-sharing against arbitrary
+    <div class="title"> &#8226; <a href="assets/files/MNPSWYY22.pdf">Leakage-resilient Linear Secret-sharing against arbitrary
 Bounded-size Leakage Family</a></div>
     <div class="author">
     <a href="https://www.cs.purdue.edu/homes/hmaji/">Hemanta Maji</a>,
@@ -118,7 +119,7 @@ Bounded-size Leakage Family</a></div>
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/ITC_MNPSWYY22.pdf">Tight Estimate of the Local Leakage Resilience of the Additive Secret-sharing Scheme & its Consequences</a></div>
+    <div class="title"> &#8226; <a href="assets/files/ITC_MNPSWYY22.pdf">Tight Estimate of the Local Leakage Resilience of the Additive Secret-sharing Scheme & its Consequences</a></div>
     <div class="author">
     <a href="https://www.cs.purdue.edu/homes/hmaji/">Hemanta Maji</a>,
     <a href="https://web.ics.purdue.edu/~nguye245/">Hai Nguyen</a>,
