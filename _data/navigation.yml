@@ -1,0 +1,14 @@
+main:
+
+  - title: "Home"
+    url: /
+  - title: "Blog"
+    url: /blog/
+  # - title: "Notes"
+  #   url: /notes/
+  # - title: "Talks"
+  #   url: /talks/
+  # - title: "Links"
+  #   url: /links/
+  # - title: "Misc"
+  #   url: /misc/

@@ -5,7 +5,7 @@
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/files/MW_Crypto_Presentation.pdf">Improving the Security of Shamir’s Secret-Sharing</a></div>
-    <div class="periodical"><em>Midwest Crypto Day, 2023.</em></div>
+    <div class="periodical">&#8226; <em>Midwest Crypto Day, 2023.</em></div>
     <div class="links">
       <a href="assets/files/MW_Crypto_Presentation.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div> 
