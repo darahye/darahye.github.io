@@ -6,7 +6,10 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/BHMY25.pdf"> Leakage-resilient Secret-sharing against Hamming Weight Leakage</a></div>
+    <div class="title"><a href="assets/files/BHMY25.pdf"> 
+      <ul>
+      <li>Leakage-resilient Secret-sharing against Hamming Weight Leakage</li>
+      </ul></a></div>
     <div class="author">
     <a href="https://scholar.google.com/citations?user=mic-HmIAAAAJ&hl=en">Aniruddha Biswas</a>,
     <a href="https://jihunhwang.github.io/">Ji Hun Hwang</a>,
@@ -70,7 +73,7 @@
     <strong>Xiuyu Ye</strong>,
     <!-- <a href="https://www.cs.purdue.edu/people/graduate-students/yu646.html">Albert Yu</a> -->
     </div>
-    <div class="periodical"><em> Eurocrypt 2024</em></div>
+    <div class="periodical"><em> Eurocrypt 2024.</em></div>
     <div class="links">
       <a href="assets/files/MNPY23b.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
