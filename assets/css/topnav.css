@@ -17,18 +17,9 @@
     text-decoration: none;
     font-size: 17px;
   }
-  
-  .topnav a:hover {
-    background-color: #ddd;
-    color: black;
-  }
-  
-  .topnav a.active {
-    background-color: #04AA6D;
-    color: white;
-  } */
+ */
 
-.navbar ul{
+/* .navbar ul{
     list-style-type: none;
     background-color:transparent;
     color:#043361!important;
@@ -52,9 +43,9 @@
 
 .navbar li{
     float: left;
-}
+} */
 
-/* .topnav ul{
+.topnav ul{
     list-style-type: none;
     background-color:transparent;
     color:#043361!important;
@@ -78,4 +69,4 @@
 
 .topnav li{
     float: left;
-} */
+}
