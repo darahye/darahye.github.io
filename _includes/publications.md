@@ -6,10 +6,8 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/BHMY25.pdf"> 
-      <ul>
-      <li>Leakage-resilient Secret-sharing against Hamming Weight Leakage</li>
-      </ul></a></div>
+    <div class="title"> &#8226; <a href="assets/files/BHMY25.pdf"> 
+     Leakage-resilient Secret-sharing against Hamming Weight Leakage</a></div>
     <div class="author">
     <a href="https://scholar.google.com/citations?user=mic-HmIAAAAJ&hl=en">Aniruddha Biswas</a>,
     <a href="https://jihunhwang.github.io/">Ji Hun Hwang</a>,
