@@ -1,4 +1,3 @@
-## Publications
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <div class="publications">
@@ -7,8 +6,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"> &#8226; <a href="assets/files/BHMY25.pdf"> 
-     Leakage-resilient Secret-sharing against Hamming Weight Leakage</a></div>
+    <div class="title">&#8226;<a href="assets/files/BHMY25.pdf"> Leakage-resilient Secret-sharing against Hamming Weight Leakage</a></div>
     <div class="author">
     <a href="https://scholar.google.com/citations?user=mic-HmIAAAAJ&hl=en">Aniruddha Biswas</a>,
     <a href="https://jihunhwang.github.io/">Ji Hun Hwang</a>,
@@ -36,8 +34,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"> &#8226; <a href="assets/files/HMNY25.pdf"> 
-    Leakage-Resilience of Shamir’s Secret Sharing: Identifying Secure Evaluation Places</a></div>
+    <div class="title">&#8226;<a href="assets/files/HMNY25.pdf"> Leakage-Resilience of Shamir’s Secret Sharing: Identifying Secure Evaluation Places</a></div>
     <div class="author">
     <a href="https://jihunhwang.github.io/">Ji Hun Hwang</a>,
     <a href="https://www.cs.purdue.edu/homes/hmaji/">Hemanta Maji</a>,
@@ -48,7 +45,7 @@
     <strong>Xiuyu Ye</strong>,
     <!-- <a href="https://www.cs.purdue.edu/people/graduate-students/yu646.html">Albert Yu</a> -->
     </div>
-    <div class="periodical"><em> ITC 2025.</em></div>
+    <div class="periodical"><em> ITC 2025</em></div>
     <div class="links">
       <a href="assets/files/HMNY25.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
@@ -63,7 +60,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"> &#8226; <a href="assets/files/MNPY23b.pdf"> Constructing Leakage-resilient Shamir’s Secret Sharing: Over Composite Order Fields</a></div>
+    <div class="title">&#8226;<a href="assets/files/MNPY23b.pdf"> Constructing Leakage-resilient Shamir’s Secret Sharing: Over Composite Order Fields</a></div>
     <div class="author">
     <a href="https://www.cs.purdue.edu/homes/hmaji/">Hemanta Maji</a>,
     <a href="https://web.ics.purdue.edu/~nguye245/">Hai Nguyen</a>,
@@ -94,7 +91,7 @@
   </div> -->
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"> &#8226; <a href="assets/files/MNPSWYY22.pdf">Leakage-resilient Linear Secret-sharing against arbitrary
+    <div class="title">&#8226;<a href="assets/files/MNPSWYY22.pdf">Leakage-resilient Linear Secret-sharing against arbitrary
 Bounded-size Leakage Family</a></div>
     <div class="author">
     <a href="https://www.cs.purdue.edu/homes/hmaji/">Hemanta Maji</a>,
@@ -120,7 +117,7 @@ Bounded-size Leakage Family</a></div>
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"> &#8226; <a href="assets/files/ITC_MNPSWYY22.pdf">Tight Estimate of the Local Leakage Resilience of the Additive Secret-sharing Scheme & its Consequences</a></div>
+    <div class="title">&#8226; <a href="assets/files/ITC_MNPSWYY22.pdf">Tight Estimate of the Local Leakage Resilience of the Additive Secret-sharing Scheme & its Consequences</a></div>
     <div class="author">
     <a href="https://www.cs.purdue.edu/homes/hmaji/">Hemanta Maji</a>,
     <a href="https://web.ics.purdue.edu/~nguye245/">Hai Nguyen</a>,
@@ -128,7 +125,7 @@ Bounded-size Leakage Family</a></div>
     <a href="https://scholar.google.co.il/citations?user=Bkv3xq0AAAAJ&hl=en">Tom Suad</a>,
     <a href="https://sites.google.com/view/mingyuan-wang">Mingyuan Wang</a>,
     <strong>Xiuyu Ye</strong>,
-    <a href="https://sites.google.com/view/albert-yu">Albert Yu</a>
+    <a href="https://www.cs.purdue.edu/people/graduate-students/yu646.html">Albert Yu</a>
     </div>
     <div class="periodical"><em> ITC 2022.</em></div>
     <div class="links">
